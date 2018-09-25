@@ -1,22 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Familiarized myself with the written code. Identified recreatable bugs, began looking for solutions and potential modifications to snapping logic
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> I plan to check our new grid based snapping logic and try to identify the bug in our check cube.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> I'm still getting used to the code but it's starting to feel familiar
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Should be fun to work on
